@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 
 <div align="center">
-  <img src="nahnah_logo.png" alt="logo" width="250"  height="auto" />
+  <img src="https://res.cloudinary.com/db3ckadxp/image/upload/v1679061680/nahnah_logo_bkmhbl.png" alt="logo" width="250"  height="auto" />
 </div>
 
 <!-- TABLE OF CONTENTS -->
@@ -29,7 +29,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Blog-App <a name="about-project"></a>
+# 📖 MMV-Portal <a name="about-project"></a>
 
  **MMV-Portal** This is an E-commerce Web App built for a Car Parts company using Ruby on rails, React, Postgresql, Tailwind Css, etc.
 
